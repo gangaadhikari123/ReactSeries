@@ -16,7 +16,7 @@ let newArr = [1,2,3]
       <div>
         <h1 className='bg-green-400 text-black p-4 rounded-xl'>My portfolio</h1>
         </div>
-        <Card channel="chaiarucode" someObj={myObj,newArr}></Card>
+        <Card channel="chaiarucode" someObj={myObj}></Card>
     </>
   )
 }
